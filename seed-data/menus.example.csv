@@ -1,0 +1,3 @@
+booth_code,name,description,price,on_sale,sort_order,image_url
+000023,타코야끼 6알,기본 타코야끼,3000,true,1,
+000023,타코야끼 10알,대용량 타코야끼,4500,true,2,

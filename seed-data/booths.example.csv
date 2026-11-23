@@ -1,0 +1,2 @@
+grade,class_no,name,category,type,open_time,close_time,booth_code,description,hidden
+2,3,2-3 타코야끼,음식,normal,10:00:00,15:00:00,000023,타코야끼 판매,false
